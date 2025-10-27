@@ -36,7 +36,7 @@ Para ejecutar el proyecto, se recomienda configurar un entorno virtual.
     pip install -r requirements.txt
     ```
 
-5. **Navega a la carpeta de análisis y ejecuta el script principal:**
+5. **Ejecuta el script principal:**
     ```sh
     py limpieza_de_datos.py
     ```
